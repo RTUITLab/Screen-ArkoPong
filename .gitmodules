@@ -1,0 +1,6 @@
+[submodule "Screen-ArkoPong-Unity"]
+	path = Screen-ArkoPong-Unity
+	url = https://github.com/RTUITLab/Screen-ArkoPong-Unity.git
+[submodule "Screen-ArkoPong-Back"]
+	path = Screen-ArkoPong-Back
+	url = https://github.com/RTUITLab/Screen-ArkoPong-Back.git
