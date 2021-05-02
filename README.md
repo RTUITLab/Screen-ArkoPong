@@ -6,7 +6,7 @@
 ---
 ## Screenshots: 
 * ![](landing/wating.png)
-* ![](landing/inGame.png)
+* ![](landing/gameplay.gif)
 * ![](landing/phoneScreen.png)
 
 ---
